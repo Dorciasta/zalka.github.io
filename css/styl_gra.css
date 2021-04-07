@@ -1,0 +1,32 @@
+.main_window {
+	
+	position: absolute;
+	width: 80%;
+	min-height: 95%;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: white;
+	border-top-style: none;
+	
+}
+
+
+
+.main_content h2 {
+	margin:0px;
+	
+}
+
+.main_content h3 {
+	margin:0px;
+	text-align: center;
+	
+}
+
+.main_content p {
+	margin: 10px;
+}
+
+
+	
+}

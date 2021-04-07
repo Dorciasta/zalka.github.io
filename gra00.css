@@ -1,0 +1,44 @@
+.game00 {
+		position: relative;
+		width: 30vw;
+		height: 30vw;
+		margin: auto;
+		overflow: hidden;
+}
+
+.div_tile {
+	position:relative;
+	float: left;
+	cursor: pointer;
+	border: solid;
+	width: 32%;
+	height: 32%;
+	box-sizing: border-box;
+}
+
+p {
+	position: relative; 
+	font-size: 5vw;
+	text-align: center;
+}
+
+.div_tile:hover {
+    background-color:#17A111;
+}
+
+.button_game00 {
+	position: relative;
+	margin-left: 30%;
+	margin-right: 30%;
+	width: 40%;
+	min-height: 5vw;
+	margin-bottom: 2vw;
+	margin-top: 2vw;
+}
+
+#gameInfo {
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: justify;
+	
+}
